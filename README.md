@@ -32,7 +32,7 @@ Use the `cdk` command-line toolkit to interact with your project:
 
 The VPC ID will be saved into the SSM Parameter Store to refer from other stacks.
 
-Parameter Name : `/cdk-ecs-ec2/vpc-id`
+Parameter Name: `/cdk-ecs-ec2/vpc-id`
 
 Use the `-c vpcId` context parameter to use the existing VPC.
 
